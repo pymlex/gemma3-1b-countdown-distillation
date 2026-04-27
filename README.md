@@ -78,7 +78,7 @@ Validation accuracy for reasoning gradually grows with small oscillations:
 Validation was run on the first `1,000` examples of the validation split with batch size `200`. The final result is:
 
 | Data Type | Validation Split Size | Evaluated Samples | Accuracy |
-|---|---|---|---|---|
+|---|---|---|---|
 | Reasoning | 1,464 | 1,000 | 0.8200 (820/1000) |
 | Non-reasoning | 1,064 | 1,064 | 0.8412 (895/1064) |
 
