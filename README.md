@@ -79,6 +79,7 @@ Validation was run on the first `1,000` examples of the validation split with ba
 
 | Data Type | Validation Split Size | Evaluated Samples | Accuracy |
 |---|---|---|---|
+| No fine-tuning | 1,000 | 1,000 | 0.1310 (131/1000) |
 | Reasoning | 1,464 | 1,000 | 0.8200 (820/1000) |
 | Non-reasoning | 1,064 | 1,064 | 0.8412 (895/1064) |
 
